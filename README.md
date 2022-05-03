@@ -8,4 +8,4 @@ At Boston Scientific, I will be able to combine my dual majors in Data Analytics
 ## Resume:
  [resume link](https://github.com/joelambrecht/joelambrecht.github.io/blob/master/LambrechtJoeResume.pdf)
  
-## [My projects] 
+## [My projects](https://github.com/joelambrecht/joelambrecht.github.io/tree/main/projects)
