@@ -1,4 +1,6 @@
-**About ME** (or you can watch a [VIDEO](https://stthomas.zoom.us/rec/share/VQaNn41bNCdAszLBqIBVOLgas3z_ZX4lTy92tzILP-9OFTGPoZ4kQVB00jb-rArf.cbLgizCVsVEROobR?startTime=1651720133000)
+##**About ME** 
+(or you can watch a [VIDEO](https://stthomas.zoom.us/rec/share/VQaNn41bNCdAszLBqIBVOLgas3z_ZX4lTy92tzILP-9OFTGPoZ4kQVB00jb-rArf.cbLgizCVsVEROobR?startTime=1651720133000)
+
 I'm a data driven, creative, and outgoing senior at the University of St. Thomas majoring in Computer Science and Data Analytics and minoring in Economics and Statistics. I'm currently employed by the University of St. Thomas as a statistics tutor, and will begin working as a Data Scientist at Boston Scientific after my graduation this spring. When not programming, I enjoy rock climbing, strategy games, and cooking. 
 
 I grew up in Rochester, Minnesota, where my interests were shaped by the dual influences of Mayo Clinic and IBM. Exposure to Mayo Clinic led me to seek out work that prioritizes helping others first and foremost, and inspired me to look to healthcare-adjacent industries. Meanwhile, IBM was generous enough to support extracurricular programs in STEM and technology that fostered a lifelong love of problem-solving and creative reasoning- two skills that I rely on heavily in my current program.
