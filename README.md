@@ -9,8 +9,8 @@ At Boston Scientific, I will be able to combine my dual majors in Data Analytics
  [resume link](https://github.com/joelambrecht/joelambrecht.github.io/blob/master/LambrechtJoeResume.pdf)
  
 ## My Projects
-[Two Way Directed Node Graph Builder](https://github.com/joelambrecht/joelambrecht.github.io/tree/main/projects)
+[Two Way Directed Node Graph Builder](https://github.com/joelambrecht/joelambrecht.github.io/tree/main/projects/TwoWayDirectedGraph)
 
 [Pipelined Architecture Project](https://github.com/benfrey/project-3---pipelining-team-03)
 
-[Deal or No Deal Excel File]
+[Deal or No Deal Excel File](https://github.com/joelambrecht/joelambrecht.github.io/tree/main/projects/DealorNoDeal)
