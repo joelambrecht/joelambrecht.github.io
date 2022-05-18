@@ -1,3 +1,5 @@
+[Download the Spreadsheet Game Here!](https://joelambrecht.github.io/projects/DealorNoDeal/DealorNoDeal.xlsm)
+
 This is a spreadsheet that imitates the game show 'Deal or No Deal' which I created during some time off during the summer of 2021. In 'Deal or No Deal', the contestant has to choose a case, then slowly open other cases in each round to gain more information about the potential value of their own case. Along the way, the Bank offers the contestant varying cash sums to stop playing. The contestant can accept the offer, or reject at each round and discover how much money is in their own case.
 
 I found the premise of this show really interesting, and was curious how my friends and family would play given the opportunity. So I began programming the game into an Excel spreadsheet, and managed to produce a rather similar imitation of the game show.
