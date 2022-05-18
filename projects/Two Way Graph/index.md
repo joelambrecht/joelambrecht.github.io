@@ -1,9 +1,7 @@
 ## Two Way Directed Graph Builder
 [Home](https://joelambrecht.github.io) | [About Me](https://joelambrecht.github.io/aboutMe) | [Resume](https://joelambrecht.github.io/resume) | [Projects](https://joelambrecht.github.io/projects) | [Video](https://joelambrecht.github.io/video) | [Paper](https://joelambrecht.github.io/paper)
 
-[View the java code here](https://joelambrecht.github.io/projects/Two%20Way%20Graph/code)
-
-[Download the java code here](https://joelambrecht.github.io/projects/Two%20Way%20Graph/code/TwoWayDirectedGraph.java)
+[View the java code here](https://joelambrecht.github.io/projects/Two%20Way%20Graph/code) | [Download the java code here](https://joelambrecht.github.io/projects/Two%20Way%20Graph/code/TwoWayDirectedGraph.java)
 
 In this project for Computer Algorithms, I designed and implemented a Two Way Directed Graph Builder that solved the following algorithm problem:
 
