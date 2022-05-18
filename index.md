@@ -1,18 +1,6 @@
 ## **Joe Lambrecht** 
 [Home](https://joelambrecht.github.io) | [About Me](https://joelambrecht.github.io/aboutMe) | [Resume](https://joelambrecht.github.io/resume) | [Projects](https://joelambrecht.github.io/projects) | [Video](https://joelambrecht.github.io/video) | [Paper](https://joelambrecht.github.io/paper)
 
-I'm a data driven, creative, and outgoing senior at the University of St. Thomas majoring in Computer Science and Data Analytics and minoring in Economics and Statistics. I'm currently employed by the University of St. Thomas as a statistics tutor, and will begin working as a Data Scientist at Boston Scientific after my graduation this spring. When not programming, I enjoy rock climbing, strategy games, and cooking. 
+Hello and welcome to my portfolio! My name is Joe Lambrecht; I am a senior at the University of St. Thomas. I'm about to graduate with a  double major in Computer Science and Data Analytics, and this site is a reflection of my work over the past 4 years toward that goal. I invite you to explore the links at the top of each page to see a video introduction, check out some projects I've worked on at St. Thomas, and learn a bit more about who I am. If you'd like to get in touch, my contact information is available on my resume.
 
-I grew up in Rochester, Minnesota, where my interests were shaped by the dual influences of Mayo Clinic and IBM. Exposure to Mayo Clinic led me to seek out work that prioritizes helping others first and foremost, and inspired me to look to healthcare-adjacent industries. Meanwhile, IBM was generous enough to support extracurricular programs in STEM and technology that fostered a lifelong love of problem-solving and creative reasoning- two skills that I rely on heavily in my current program.
-
-At Boston Scientific, I will be able to combine my dual majors in Data Analytics and Computer Science to work as part of the Data Science team. It will be an incredible environment to challenge myself as a programmer and analyst while advancing the common good through improving the way electrocardiograms are interpreted for cardiac anomalies. 
-
-## Resume:
- [resume link](https://github.com/joelambrecht/joelambrecht.github.io/blob/master/LambrechtJoeResume.pdf)
- 
-## My Projects
-[Two Way Directed Node Graph Builder](https://github.com/joelambrecht/joelambrecht.github.io/tree/main/projects/Two%20Way%20Graph)
-
-[Pipelined Architecture Project](https://github.com/benfrey/project-3---pipelining-team-03)
-
-[Deal or No Deal Excel File](https://github.com/joelambrecht/joelambrecht.github.io/tree/main/projects/DealorNoDeal)
+[photo of me](https://joelambrecht.github.io/LambrechtJoeProfilePicture.JPG)
