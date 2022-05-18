@@ -1,3 +1,4 @@
+```
 import java.util.LinkedList;
 import java.util.ArrayList;
 
@@ -252,6 +253,7 @@ public class TwoWayDirectedGraph {
         public LinkedList<TwoWayDirectedGraphNode> getOutgoingNodesUphill() {
             return this.outgoingNodesUphill;
         }
+```
 
         public LinkedList<TwoWayDirectedGraphNode> getOutgoingNodesDownhill() {
             return this.outgoingNodesDownhill;
