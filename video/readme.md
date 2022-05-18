@@ -1,4 +1,9 @@
-## Video Transcript
+## Video
+[Home](https://joelambrecht.github.io) | [About Me](https://joelambrecht.github.io/aboutMe) | [Resume](https://joelambrecht.github.io/resume) | [Projects](https://joelambrecht.github.io/projects) | [Video](https://joelambrecht.github.io/video) | [Paper](https://joelambrecht.github.io/paper)
+
+[Watch the video here!](https://stthomas.zoom.us/rec/share/VQaNn41bNCdAszLBqIBVOLgas3z_ZX4lTy92tzILP-9OFTGPoZ4kQVB00jb-rArf.cbLgizCVsVEROobR?startTime=1651720133000)
+
+**Video Transcript**
 
 Hi! Thanks for taking the time to learn a bit more about me. My name is Joe Lambrecht, and I'm currently a senior at the University of St. Thomas. I'm graduating this May with degrees in Computer Science and Data Analytics, and minors in Economics and Statistics. Beyond my academic commitments, I'm also the president of the Economics and Data Science clubs on campus, and I'm very active in the Rock Climbing Club.
 

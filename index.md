@@ -1,5 +1,5 @@
 ## **Joe Lambrecht** 
-[About Me](https://joelambrecht.github.io/aboutMe) | [Resume](https://joelambrecht.github.io/resume) | [Projects](https://joelambrecht.github.io/projects) | [Video](https://stthomas.zoom.us/rec/share/VQaNn41bNCdAszLBqIBVOLgas3z_ZX4lTy92tzILP-9OFTGPoZ4kQVB00jb-rArf.cbLgizCVsVEROobR?startTime=1651720133000)
+[Home](https://joelambrecht.github.io) | [About Me](https://joelambrecht.github.io/aboutMe) | [Resume](https://joelambrecht.github.io/resume) | [Projects](https://joelambrecht.github.io/projects) | [Video](https://joelambrecht.github.io/video) | [Paper](https://joelambrecht.github.io/paper)
 
 I'm a data driven, creative, and outgoing senior at the University of St. Thomas majoring in Computer Science and Data Analytics and minoring in Economics and Statistics. I'm currently employed by the University of St. Thomas as a statistics tutor, and will begin working as a Data Scientist at Boston Scientific after my graduation this spring. When not programming, I enjoy rock climbing, strategy games, and cooking. 
 
