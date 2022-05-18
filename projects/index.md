@@ -5,7 +5,7 @@
 ## Computer Science Projects
 [Two Way Directed Node Graph Builder](https://joelambrecht.github.io/projects/Two%20Way%20Graph)
 
-[Pipelined Architecture Project](https://joelambrecht.github.io/projects/Cisc340%20Project%203.md)
+[Pipelined Architecture Project](https://joelambrecht.github.io/projects/pileline)
 
 ## Personal Projects
 
